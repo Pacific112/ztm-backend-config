@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: ztm-repository
+  jackson:
+    serialization:
+      write_dates_as_timestamps: true
